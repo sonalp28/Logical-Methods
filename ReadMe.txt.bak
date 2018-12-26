@@ -1,0 +1,3 @@
+Mancala Terminal game play instruction -
+1. Test suite is already designed for this game in tests.py
+2. Run command - python test.py 
